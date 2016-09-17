@@ -1,0 +1,18 @@
+Allocate Node: This function simply creates a node and the a pointer which points towards it. The address of the pointer is returned.
+Prepend Node: This function creates a node in the begining of the linkedlist. 
+AppendNode: This function creates a node in the last of the linkedlist. The pionter section of this node contains NULL.
+InsertNode: This function creates a node at the nth position of a linkedlist. The AppendNode and PerpendNode can be made a special case of this function.
+SearchList: This function searches a node with given id no.
+PrintList: This function in itself calls the search function and then prints it out.
+PrintList: This function firstly traverses the linked list and simultaneously prints the nodes,,,thus the entire linkedlist is printes.
+DeleteFirstNode: This function deletes the first node of a linkedlist. It is the special case of delete at Nth node deletion function.
+DeleteLastNode: This function deletes the last node of a linked list. It is again the special case of Nth node deletion function.
+DeleteNthNode: This function deletes the Nth node of a linked list.
+ReverseList: This function reverses the entire linkedlist. And prints it out.
+ListUnion : Given two linked list ,,this functions prints the nodes which are common as well as unique to one of the nodes. It is very similar to mathematical union of sets.
+two sets.
+ListINtersection: Given two linked list ,,this functions prints the common nodes of the both function. It is very similar to mathematical intersection of two sets.  
+FindMthFromLast: Given a linked list, this function simply prints the node which is mth from the last.
+
+Difficuty: First difficulty was the traversal of the linkedlist. Secondly intersection of two linked list was difficult...and union still incomplete.
+ 

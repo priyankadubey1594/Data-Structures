@@ -1,0 +1,19 @@
+create():
+stack-function returns a pointer to stack type in where in top points to null
+queue-function returns pointer to queue wherein front and rear as null
+push:
+stack-pushes the element in stack at top 
+queue-pushes the element in queue at rear pointer 
+pop:
+stack-pops the recently inserted element from stack
+queue-pops the firstly inserted element from queue
+empty:
+stack-empties the stack
+queue-empties the queue
+free:
+stack-the function free up the space associated with stack
+queue-the function free up the space associated with queue
+is empty:
+stack-checks if the stack is empty or not
+queue-checks if the queue is empty or not
+difficulty: freeing a stack and queue.
