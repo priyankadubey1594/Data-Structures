@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1498997523 source:/home/sherlock/Algorithms/CLRS/main.cpp
+	<iostream>
+
+1499002853 source:/home/sherlock/Algorithms/CLRS/integer_partition.cpp
+	<iostream>
+	<string.h>
+
